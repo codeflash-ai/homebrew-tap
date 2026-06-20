@@ -1,8 +1,8 @@
 cask "afs" do
-  version "0.1.0"
-  sha256 "2fde7b635d8948cbb7f3bb84102ada559f8bbdf8f6fef5f87977d5025ad01db8"
+  version "0.1.1"
+  sha256 "f2ac64e386fad5a2844bbd1c9d452e65aa384d0c3d1de17cefd5ef2fc538a82e"
 
-  url "https://github.com/codeflash-ai/afs/releases/download/v0.1.0/AFS-beta-20260619-0ec3319-notarized-aarch64.dmg",
+  url "https://github.com/codeflash-ai/afs/releases/download/v0.1.1/AFS-release-20260619-6ac5cde-notarized-aarch64.dmg",
       verified: "github.com/codeflash-ai/afs/"
   name "AFS"
   desc "Mount workspaces as local files for agents"
